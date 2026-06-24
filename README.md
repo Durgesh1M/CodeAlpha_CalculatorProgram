@@ -25,4 +25,20 @@ Make sure you have a C compiler (like GCC) installed on your system.
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/CodeAlpha_CalculatorProgram.git
+   git clone https://github.com/Durgesh1M/CodeAlpha_CalculatorProgram.git
+   
+2. Navigate to the source folder:
+   ```bash
+    cd CodeAlpha_CalculatorProgram/src
+3. Compile the C code:
+   ```bash
+   gcc main.c -o calculator
+4. Run the executable:
+  (i). On Windows:
+   ```bash
+    calculator.exe
+  (ii). On Linux/Mac:
+   ```bash
+    ./calculator
+
+
