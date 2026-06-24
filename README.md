@@ -34,11 +34,15 @@ Make sure you have a C compiler (like GCC) installed on your system.
    ```bash
    gcc main.c -o calculator
 4. Run the executable:
-  (i). On Windows:
+   
+5. On Windows:
    ```bash
     calculator.exe
-  (ii). On Linux/Mac:
+6. On Linux/Mac:
    ```bash
     ./calculator
+Submitted by Durgesh Kumar as part of the CodeAlpha Internship Program.  
+   
+   
 
 
